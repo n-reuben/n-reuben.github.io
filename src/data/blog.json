@@ -1,0 +1,36 @@
+{
+  "title": "BLOG",
+  "description": "Here you can find my most recent blog posts. To view all of my blog posts, you can visit my dedicated [blog page].",
+  "posts": [
+    {
+      "to": "/single-blog",
+      "title": "Understanding open sets as semidecidable properties",
+      "date": "MAR 25, 2021",
+      "category": "TOPOLOGY"
+    },
+    {
+      "to": "/single-blog",
+      "title": "Definite descriptions, information, and model theory",
+      "date": "FEB 2, 2021",
+      "category": "LOGIC"
+    },
+    {
+      "to": "/single-blog",
+      "title": "A game theoretic perspective of urbanization",
+      "date": "NOV 13, 2020",
+      "category": "GAME THEORY"
+    },
+    {
+      "to": "/single-blog",
+      "title": "The flaw with longtermist thinking",
+      "date": "AUG 7, 2020",
+      "category": "BUSINESS"
+    },
+    {
+      "to": "/single-blog",
+      "title": "What is the deal with monoids? --- formal look at design patterns",
+      "date": "JUN 16, 2020",
+      "category": "DESIGN"
+    }
+  ]
+}

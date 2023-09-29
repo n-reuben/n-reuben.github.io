@@ -1,0 +1,20 @@
+{
+  "title": "CV/RESUME",
+  "description": "Here are links to my resume/CV and my portfolio page documenting projects I have worked on...",
+  "paragraphtop": [
+    "Below are my CV as of 10/1/2023 and my portfolio page consisting of projects I have worked on before."
+  ],
+  "paragraphbottom": [
+    "To read about me and my other work you can scroll down!"
+  ],
+  "quicklinksRedirects": [
+    {
+      "to": "#",
+      "text": "DOWNLOAD CV"
+    },
+    {
+      "to": "#",
+      "text": "MY PORTFOLIO"
+    }
+  ]
+}

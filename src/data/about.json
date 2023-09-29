@@ -1,0 +1,29 @@
+{
+  "title": "ABOUT",
+  "description": "I am currently a software engineer/data engineer located in San Jose, CA.",
+  "paragraphe1": "I'm passionate about working with data to draw conclusions about the world and .",
+  "aboutInfo": [
+    {
+      "title": "EMAIL",
+      "link": {
+        "to": "mailto:nitishreuben@gmail.com",
+        "text": "nitishreuben@gmail.com"
+      }
+    },
+    {
+      "title": "ROLE",
+      "text": "Data Engineer"
+    },
+    {
+      "title": "PHONE",
+      "link": {
+        "to": "tel:+14088960154",
+        "text": "(408) 896-0154"
+      }
+    }
+  ],
+  "paragraphes": [
+    "Excluding professional work, I love learning about mathematics and philosophy in my free time. My areas of interest include mathematical logic, algebraic topology, and philosophy of language. Although I certifiably am not an expert in any of these topics, you can find some of my thoughts, rants, and musings in my [blog](#).",
+    "I am currently a "
+  ]
+}

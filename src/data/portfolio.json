@@ -1,0 +1,61 @@
+{
+  "title": "PORTFOLIO",
+  "description": "Here is a list of some highlighted projects. To view all of my projects, you can visit my [projects page].",
+  "portfolioItems": [
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "item",
+        "number": 1
+      },
+      "description": {
+        "text": "Project 1",
+        "caption": "Text"
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "item",
+        "number": 2
+      },
+      "description": {
+        "text": "Project 2",
+        "caption": "Text"
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "item",
+        "number": 3
+      },
+      "description": {
+        "text": "Project 3",
+        "caption": "Text"
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "popup",
+        "number": 1
+      },
+      "description": {
+        "text": "Project 4",
+        "caption": "Video"
+      }
+    },
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "popup",
+        "number": 2
+      },
+      "description": {
+        "text": "Project 5",
+        "caption": "Image"
+      }
+    }
+  ]
+}

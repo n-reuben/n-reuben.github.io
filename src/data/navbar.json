@@ -1,0 +1,46 @@
+{
+  "homeLink": {
+    "to": "/",
+    "text": "NITISH REUBEN"
+  },
+  "navLinks": [
+    {
+      "to": "home",
+      "text": "HOME"
+    },
+    {
+      "to": "quicklinks",
+      "text": "CV/RESUME"
+    },
+    {
+      "to": "about",
+      "text": "ABOUT"
+    },
+    {
+      "to": "portfolio",
+      "text": "PORTFOLIO"
+    },
+    {
+      "to": "blog",
+      "text": "BLOG"
+    },
+    {
+      "to": "contact",
+      "text": "CONTACT"
+    }
+  ],
+  "footLinks": [
+    {
+      "to": "https://www.linkedin.com/in/nitishreuben/",
+      "text": "LI."
+    },
+    {
+      "to": "https://github.com/NitishReuben",
+      "text": "GH."
+    },
+    {
+      "to": "https://www.instagram.com/nitish.reuben/?hl=en",
+      "text": "IN."
+    }
+  ]
+}

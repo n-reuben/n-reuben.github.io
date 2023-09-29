@@ -1,0 +1,12 @@
+/* File: font.css */
+@font-face {
+    font-family: 'SpaceMonoRegular';
+    src: local('SpaceMonoRegular'),
+        url('../fonts/SpaceMono-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Optima';
+    src: local('Optima'),
+        url('../fonts/OPTIMA.TTF') format('truetype');
+}
