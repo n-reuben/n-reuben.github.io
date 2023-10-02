@@ -22,6 +22,7 @@ import routes from './routes';
 
 // UI Components
 import Layout from '../components/Layout';
+import { baseName } from "../../router";
 
 // -------------
 
@@ -29,7 +30,7 @@ import Layout from '../components/Layout';
  * Making base name for the website (needed in deployment)
  */
 const router = createBrowserRouter(routes, {
-  basename: '/personal-website/',
+  basename: '/personal-website',
 });
 
 function App() {
