@@ -30,7 +30,7 @@ import { baseName } from "../../router";
  * Making base name for the website (needed in deployment)
  */
 const router = createBrowserRouter(routes, {
-  basename: '/personal-website',
+  basename: '/',
 });
 
 function App() {
